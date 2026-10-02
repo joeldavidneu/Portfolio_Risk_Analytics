@@ -1,4 +1,4 @@
-# Portfolio Risk Lab
+# Portfolio Risk Analytics
 
 A Python application for analysing the **one-day market risk** of a portfolio containing BMW stock, gold and a bond ETF. It compares historical simulation with Student-t Monte Carlo simulation, evaluates a simplified stress scenario and backtests historical Value at Risk.
 
